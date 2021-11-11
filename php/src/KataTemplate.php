@@ -1,8 +1,8 @@
 <?php
 
-namespace PasswordValidator;
+namespace KataTemplate;
 
-class PasswordValidator
+class KataTemplate
 {
     public function changeMe(): bool
     {

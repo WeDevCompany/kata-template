@@ -1,9 +1,6 @@
 # Base para hacer tests
 
 Configuración básica para empezar a hacer una kata o aprender a hacer tests en los siguientes lenguajes:
-
-- PHP y PHPUnit
-- Javascript con Jest
 - Java, Junit y Mockito
 
 # Configuración específica por lenguaje

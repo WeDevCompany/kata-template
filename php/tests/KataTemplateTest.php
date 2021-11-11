@@ -11,6 +11,6 @@ class KataTemplateTest extends TestCase
     public function change_me()
     {
         $kataTemplate = new KataTemplate();
-        $this->assertTrue($passwordValidator->changeMe());
+        $this->assertTrue($kataTemplate->changeMe());
     }
 }
